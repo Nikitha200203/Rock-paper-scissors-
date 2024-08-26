@@ -1,5 +1,5 @@
 # Rock-paper-scissors
-This project also includes a simple Rock-Paper-Scissors game where you can play against the computer.
+This project includes a simple Rock-Paper-Scissors game where you can play against the computer.
 
 # Features
 - Classic Game: Play the traditional Rock-Paper-Scissors game.
